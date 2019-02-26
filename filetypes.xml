@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="npm" type="PLAIN_TEXT" />
+      <mapping pattern=".todo" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping ext="php-old" type="PLAIN_TEXT" />
+      <mapping ext="sentryfile" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="ufm" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="Images" />
+    </extensionMap>
+  </component>
+</application>

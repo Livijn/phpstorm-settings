@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="CollapseSelection" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="FileStructurePopup">

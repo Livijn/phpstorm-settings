@@ -6,4 +6,8 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>

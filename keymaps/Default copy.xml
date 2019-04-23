@@ -1,5 +1,15 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateStructureToolWindow" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion" />
+  <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
@@ -19,6 +29,9 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="GotoSymbol" />
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -29,6 +42,12 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>

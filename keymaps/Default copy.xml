@@ -1,5 +1,6 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateStructureToolWindow" />
+  <action id="ChangesView.Move" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -49,5 +50,6 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
 </keymap>

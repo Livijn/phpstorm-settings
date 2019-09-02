@@ -7,17 +7,17 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="dedc5399-4920-4faf-8305-8457b5fa7b0b" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.3/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="dedc5399-4920-4faf-8305-8457b5fa7b0b" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.8/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.3/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.3/bin/php" path_separator=":" version="7.3.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.8/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.8/bin/php" path_separator=":" version="7.3.8">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.3/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.8/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>

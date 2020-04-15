@@ -1,0 +1,10 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="ENGLISH_WORD_REPEAT_RULE" />
+        <option value="PUNCTUATION_PARAGRAPH_END" />
+      </set>
+    </option>
+  </component>
+</application>

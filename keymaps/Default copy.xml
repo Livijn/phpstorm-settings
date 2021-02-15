@@ -25,9 +25,7 @@
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="shift meta alt o_with_diaeresis" />
-  </action>
+  <action id="EditorResetFontSize" />
   <action id="FileChooser.NewFolder" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />

@@ -42,11 +42,9 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NewScratchFile" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="end" />
   </action>

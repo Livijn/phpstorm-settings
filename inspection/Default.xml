@@ -3,7 +3,7 @@
   <inspection_tool class="CheckEmptyScriptTag" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <Languages>
-      <language minSize="74" name="TypeScript" />
+      <language minSize="770" name="TypeScript" />
       <language minSize="84" name="PHP" />
     </Languages>
   </inspection_tool>

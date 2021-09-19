@@ -5,7 +5,7 @@
     <Languages>
       <language minSize="11" name="Style Sheets" />
       <language minSize="770" name="TypeScript" />
-      <language minSize="138" name="PHP" />
+      <language minSize="146" name="PHP" />
     </Languages>
   </inspection_tool>
   <inspection_tool class="EditorConfigReferenceCorrectness" enabled="true" level="WARNING" enabled_by_default="true" />

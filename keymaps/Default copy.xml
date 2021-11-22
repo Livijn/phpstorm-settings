@@ -31,8 +31,12 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="meta left" />
@@ -66,6 +70,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
   <action id="Run" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta t" />
@@ -79,6 +87,7 @@
   </action>
   <action id="Terminal.MoveToolWindowTabLeft" />
   <action id="Terminal.MoveToolWindowTabRight" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Terminal.SwitchFocusToEditor" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />

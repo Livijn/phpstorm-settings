@@ -57,6 +57,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="NavBar-selectEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
@@ -70,6 +73,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="ReformatWithPrettierAction" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="shift meta right" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
@@ -79,6 +83,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="SaveAs" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
@@ -91,4 +96,5 @@
   <action id="Terminal.SwitchFocusToEditor" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

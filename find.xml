@@ -14,6 +14,7 @@
     <mask>*.ts</mask>
     <mask>*.vue</mask>
     <mask>*.ts,*.vue</mask>
+    <mask>*.ts*</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -25,6 +26,5 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
-    <mask>*.ts*</mask>
   </component>
 </application>

@@ -26,6 +26,9 @@
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -47,5 +50,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="SaveAs" />
   <action id="Vcs.UpdateProject" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

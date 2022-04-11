@@ -1,19 +1,34 @@
 <keymap version="1" name="Livijn" parent="Mac OS X 10.5+">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="meta 1" />
-    <keyboard-shortcut first-keystroke="meta ampersand" />
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="shift meta c" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateVersionControlToolWindow" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ChooseRunConfiguration" />
   <action id="CollapseSelection" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -41,13 +56,15 @@
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAs" />

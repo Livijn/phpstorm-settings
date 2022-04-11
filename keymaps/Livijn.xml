@@ -51,6 +51,12 @@
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAs" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

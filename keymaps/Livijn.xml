@@ -18,6 +18,9 @@
   </action>
   <action id="ChooseRunConfiguration" />
   <action id="CollapseSelection" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DuplicatesForm.SendToRight" />
@@ -45,11 +48,9 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
-  <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NewScratchFile" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>

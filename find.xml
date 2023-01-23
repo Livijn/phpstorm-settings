@@ -5,13 +5,13 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
-    <mask>*.ts</mask>
     <mask>*.ts,*.vue</mask>
     <mask>*.ts*</mask>
     <mask>*.css</mask>
@@ -26,5 +26,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

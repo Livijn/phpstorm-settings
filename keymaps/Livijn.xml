@@ -31,6 +31,12 @@
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift end" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta plus" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta plus" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">

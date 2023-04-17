@@ -35,6 +35,7 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>

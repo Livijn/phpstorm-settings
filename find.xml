@@ -27,8 +27,8 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.vue,*.js</mask>
-    <mask>*.php</mask>
     <mask>*.vue,*.js, *.ts</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>

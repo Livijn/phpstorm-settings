@@ -23,11 +23,11 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.vue,*.js</mask>
     <mask>*.vue,*.js, *.ts</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>

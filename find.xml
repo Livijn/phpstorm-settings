@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue,*.js, *.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -24,10 +25,10 @@
     <mask>*.inc</mask>
     <mask>*.ts</mask>
     <mask>*.vue,*.js</mask>
-    <mask>*.vue,*.js, *.ts</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.blade.php</mask>
     <mask>*.js</mask>
+    <mask>*.vue,*.js, *.ts</mask>
   </component>
 </application>

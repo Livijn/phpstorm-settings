@@ -7,9 +7,11 @@
     <option name="useMaterialFont2" value="true" />
     <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="009688" />
+    <option name="secondAccentColor" />
     <option name="highlightColor" value="009688" />
+    <option name="focusColor" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="31bfc1ca:16916076b7e:-7fc9" />
-    <option name="version" value="8.6.2" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>

@@ -20,13 +20,19 @@
     <option name="enabled" value="false" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="enabledOptions">
+      <map>
+        <entry key="ts.type.hints#function.returns" value="false" />
+        <entry key="ts.type.hints#variables.and.fields" value="false" />
+      </map>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="false" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="true" />
-        <entry key="ts.type.hints" value="false" />
+        <entry key="ts.type.hints" value="true" />
       </map>
     </option>
   </component>

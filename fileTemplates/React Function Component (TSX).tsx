@@ -8,6 +8,8 @@ interface ${NAME}Props extends React.ComponentProps<typeof View> {
 
 export default function $NAME(props: ${NAME}Props) {
   return (
-    <View className={""}><Text></Text></View>
+    <View className={''}>
+      <Text>Lorem</Text>
+    </View>
   )
 }

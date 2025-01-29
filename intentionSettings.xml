@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/ECMAScript 6/Convert to async function" />
+    <ignoreAction name="JavaScript/Convert to function expression" />
   </component>
 </application>

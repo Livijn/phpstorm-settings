@@ -38,6 +38,7 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta plus" />
   </action>
+  <action id="ExternalSystem.CollapseAll" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FileStructurePopup">

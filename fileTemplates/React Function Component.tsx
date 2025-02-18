@@ -1,5 +1,5 @@
 import React, { ComponentProps } from 'react';
-import View from 'react-native';
+import { View } from 'react-native';
 
 interface ${NAME}Props extends ComponentProps<any> {
   //

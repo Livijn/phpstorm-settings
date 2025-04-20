@@ -12,21 +12,21 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="b0bec5" />
-    <option name="DELETED_LINES_COLOR" value="f77669" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
+    <option name="ANNOTATIONS_COLOR" value="B0BEC5" />
+    <option name="DELETED_LINES_COLOR" value="F77669" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1C1C1C" />
     <option name="DOCUMENTATION_COLOR" value="212121" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_RENAMED" value="baacff" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="FILESTATUS_RENAMED" value="BAACFF" />
+    <option name="MODIFIED_LINES_COLOR" value="FFCB6E" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4F6269" />
     <option name="TEARLINE_COLOR" value="303030" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="D9F5DD" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -374,7 +374,7 @@
         <option name="FOREGROUND" value="ff9800" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />

@@ -13,6 +13,7 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="defaultPosition" value="Top" />
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="component.usage" />
@@ -32,6 +33,14 @@
         <entry key="js.type.hints#non.paren.single.param" value="false" />
         <entry key="js.type.hints#parameters.in.parens" value="false" />
         <entry key="js.type.hints#variables.and.fields" value="false" />
+        <entry key="sql.column.names.inlay.hints#sql.show.column.names.for.asterisk" value="false" />
+        <entry key="sql.column.names.inlay.hints#sql.show.column.names.for.set.operations" value="false" />
+        <entry key="sql.column.names.inlay.hints#sql.show.column.names.in.insert.values" value="false" />
+        <entry key="sql.column.names.inlay.hints#sql.show.column.names.in.select" value="false" />
+        <entry key="sql.join.cardinality.hints#full.join" value="true" />
+        <entry key="sql.join.cardinality.hints#inner.join" value="true" />
+        <entry key="sql.join.cardinality.hints#left.join" value="true" />
+        <entry key="sql.join.cardinality.hints#right.join" value="true" />
         <entry key="ts.type.hints#function.returns" value="false" />
         <entry key="ts.type.hints#non.paren.single.param" value="false" />
         <entry key="ts.type.hints#parameters.in.parens" value="false" />
@@ -43,6 +52,8 @@
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="false" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="sql.column.names.inlay.hints" value="false" />
+        <entry key="sql.join.cardinality.hints" value="true" />
         <entry key="ts.chain.hints" value="false" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="false" />

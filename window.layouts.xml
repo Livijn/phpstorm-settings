@@ -76,6 +76,8 @@
           "id": "Project",
           "order": 3,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.22366898
         },
         {
@@ -112,7 +114,7 @@
           "id": "Run",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.3257646
+          "weight": 0.41102874
         },
         {
           "id": "Debug",
@@ -141,7 +143,7 @@
           "id": "Terminal",
           "order": 7,
           "anchor": "BOTTOM",
-          "weight": 0.24235404
+          "weight": 0.41102874
         },
         {
           "id": "Services",
@@ -198,7 +200,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.22366898,
-        "bottom": 0.3257646,
+        "bottom": 0.41102874,
         "right": 0.33015046
       }
     }

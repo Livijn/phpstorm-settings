@@ -114,6 +114,7 @@
           "id": "Run",
           "order": 2,
           "anchor": "BOTTOM",
+          "isShowStripeButton": false,
           "weight": 0.41102874
         },
         {

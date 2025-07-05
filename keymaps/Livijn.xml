@@ -91,5 +91,6 @@
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Vcs.UpdateProject" />
   <action id="ZoomCurrentWindow" />
+  <action id="com.codeium.intellij.chat_window.send_to_cascade.SendToCascade" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>

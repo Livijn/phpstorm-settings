@@ -13,6 +13,7 @@
     <option name="hasShownPreReleaseNotification" value="true" />
     <option name="openChatOnReload" value="false" />
     <option name="showCascadeWelcomePage" value="false" />
+    <option name="showExplainProblemInlayHint" value="false" />
     <option name="showSelectionToolbar" value="false" />
   </component>
 </application>

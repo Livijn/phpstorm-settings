@@ -51,6 +51,7 @@
       <map>
         <entry key="com.laravel_idea.plugin.routing.a.h" value="false" />
         <entry key="com.laravel_idea.plugin.routing.b.f" value="false" />
+        <entry key="com.laravel_idea.plugin.routing.g.b" value="false" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="false" />
         <entry key="qodana.yaml.inspection.descriptions" value="true" />

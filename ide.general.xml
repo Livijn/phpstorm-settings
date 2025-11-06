@@ -21,9 +21,9 @@
       <map>
         <entry key="AIAssistant" value="false" />
         <entry key="CwmWireStatsWidgetFactory" value="false" />
-        <entry key="LanguageServiceStatusBarWidget" value="false" />
         <entry key="Memory" value="true" />
         <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="mtAccentBarFactory" value="false" />
         <entry key="mtProjectFactory" value="false" />
         <entry key="mtThemeFactory" value="false" />
         <entry key="php.debug.status.widget" value="false" />

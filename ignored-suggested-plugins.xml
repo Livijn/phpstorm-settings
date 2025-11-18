@@ -3,6 +3,8 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.tailwindcss" />
+        <option value="com.jetbrains.plugins.jade" />
+        <option value="com.jetbrains.lang.ejs" />
       </list>
     </option>
   </component>

@@ -1,5 +1,23 @@
 <application>
   <component name="dev.sweep.jetbrains.settings.SweepSettings">
-    <option name="autocompleteDebounceMs" value="10" />
+    <option name="autocompleteDebounceMs" value="96" />
+    <option name="customPrompts">
+      <list>
+        <CustomPrompt>
+          <option name="includeSelectedCode" value="false" />
+          <option name="name" value="AI Code Review" />
+          <option name="prompt" value="Review each of the changes in detail for potential bugs" />
+        </CustomPrompt>
+        <CustomPrompt>
+          <option name="name" value="Explain Code" />
+          <option name="prompt" value="Explain what the code does." />
+        </CustomPrompt>
+        <CustomPrompt>
+          <option name="name" value="Write Documentation" />
+          <option name="prompt" value="Please write documentation for the highlighted code." />
+        </CustomPrompt>
+      </list>
+    </option>
+    <option name="hasInitializedDefaultPrompts" value="true" />
   </component>
 </application>

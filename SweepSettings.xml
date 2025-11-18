@@ -1,0 +1,5 @@
+<application>
+  <component name="dev.sweep.jetbrains.settings.SweepSettings">
+    <option name="autocompleteDebounceMs" value="10" />
+  </component>
+</application>

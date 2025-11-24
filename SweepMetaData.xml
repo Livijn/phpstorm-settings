@@ -1,7 +1,7 @@
 <application>
   <component name="SweepMetaData">
-    <option name="cachedDefaultModel" value="Sonnet 4.5 (thinking)" />
-    <option name="cachedModels" value="{&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;Opus 4.1 (thinking)&quot;:&quot;claude-opus-4-1-20250805:thinking&quot;,&quot;Opus 4.1&quot;:&quot;claude-opus-4-1-20250805&quot;,&quot;Minimax M2&quot;:&quot;minimax/minimax-m2&quot;,&quot;GLM 4.6&quot;:&quot;z-ai/glm-4.6&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;}" />
+    <option name="cachedDefaultModel" value="Opus 4.5 (thinking)" />
+    <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;Opus 4.1 (thinking)&quot;:&quot;claude-opus-4-1-20250805:thinking&quot;,&quot;Opus 4.1&quot;:&quot;claude-opus-4-1-20250805&quot;,&quot;Minimax M2&quot;:&quot;minimax/minimax-m2&quot;,&quot;GLM 4.6&quot;:&quot;z-ai/glm-4.6&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;}" />
     <option name="configButtonClicks" value="1" />
     <option name="finishedEntitiesCachePopulationList">
       <list>
@@ -15,7 +15,7 @@
         <option value="593752891_true" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="976" />
+    <option name="ghostTextTabAcceptCount" value="994" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
     <option name="hasSeenTutorialV2" value="true" />
@@ -35,7 +35,7 @@
     <option name="lastKnownFileCountList">
       <list>
         <option value="593752891_874" />
-        <option value="-2137770421_55432" />
+        <option value="-2137770421_55178" />
       </list>
     </option>
     <option name="shownUpdateVersions">

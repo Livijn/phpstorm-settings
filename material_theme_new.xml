@@ -197,10 +197,16 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
         <option name="userId" value="31bfc1ca:16916076b7e:-7fc9" />
         <option name="version" value="10.5.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="DARKER" />
+      </MTThemeConfigState>
     </option>
   </component>
 </application>

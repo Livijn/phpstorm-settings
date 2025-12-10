@@ -40,12 +40,21 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCompleteStatement" />
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift meta right" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="EditorTextEnd" />
+  <action id="EditorTextEndWithSelection" />
+  <action id="EditorTextStart" />
+  <action id="EditorTextStartWithSelection" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift meta plus" />
   </action>
@@ -80,14 +89,17 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Rerun">
-    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="shift end" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="RunDashboard.Run">
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAs" />
@@ -102,4 +114,7 @@
   <action id="ZoomCurrentWindow" />
   <action id="com.codeium.intellij.chat_window.send_to_cascade.SendToCascade" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+  <action id="runShellFileAction">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
 </keymap>

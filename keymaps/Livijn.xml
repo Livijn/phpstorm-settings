@@ -110,6 +110,7 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Terminal.ClearPrompt" />
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Vcs.UpdateProject" />
   <action id="ZoomCurrentWindow" />

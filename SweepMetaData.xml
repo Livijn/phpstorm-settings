@@ -3,9 +3,9 @@
     <option name="cachedDefaultModel" value="Opus 4.5 (thinking)" />
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;GLM 4.6&quot;:&quot;z-ai/glm-4.6&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
-    <option name="chatHistoryUsed" value="12" />
-    <option name="chatWithoutSearch" value="72" />
-    <option name="chatsSent" value="72" />
+    <option name="chatHistoryUsed" value="13" />
+    <option name="chatWithoutSearch" value="86" />
+    <option name="chatsSent" value="86" />
     <option name="configButtonClicks" value="3" />
     <option name="finishedEntitiesCachePopulationList">
       <list>
@@ -56,7 +56,7 @@
     <option name="lastKnownFileCountList">
       <list>
         <option value="593752891_2699" />
-        <option value="-2137770421_4847" />
+        <option value="-2137770421_4818" />
         <option value="-1659393271_633" />
         <option value="-650373765_2313" />
         <option value="1945329424_128" />
@@ -72,20 +72,19 @@
     </option>
     <option name="tipShowCounts">
       <map>
-        <entry key="-2097312606" value="1" />
-        <entry key="-1232810607" value="1" />
+        <entry key="-2097312606" value="2" />
+        <entry key="-1232810607" value="2" />
         <entry key="-1000785918" value="2" />
         <entry key="-879093357" value="2" />
         <entry key="-316090007" value="2" />
         <entry key="-227780278" value="2" />
-        <entry key="224233913" value="1" />
-        <entry key="328928550" value="1" />
-        <entry key="800261123" value="1" />
+        <entry key="224233913" value="2" />
+        <entry key="328928550" value="2" />
+        <entry key="800261123" value="2" />
         <entry key="1088099106" value="2" />
         <entry key="1122693682" value="2" />
         <entry key="1689502052" value="2" />
       </map>
     </option>
-    <option name="toolWindowVisible" value="false" />
   </component>
 </application>

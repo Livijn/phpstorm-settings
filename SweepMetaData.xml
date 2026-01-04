@@ -3,9 +3,9 @@
     <option name="cachedDefaultModel" value="Opus 4.5 (thinking)" />
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;GLM 4.7&quot;:&quot;z-ai/glm-4.7&quot;,&quot;Sweep-0.1&quot;:&quot;sweep-auto&quot;,&quot;Sweep-0.1 (thinking)&quot;:&quot;sweep-auto:thinking&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
-    <option name="chatHistoryUsed" value="23" />
-    <option name="chatWithoutSearch" value="361" />
-    <option name="chatsSent" value="360" />
+    <option name="chatHistoryUsed" value="24" />
+    <option name="chatWithoutSearch" value="393" />
+    <option name="chatsSent" value="392" />
     <option name="configButtonClicks" value="5" />
     <option name="fileContextUsageCount" value="1" />
     <option name="finishedEntitiesCachePopulationList">
@@ -26,7 +26,7 @@
         <option value="1945329424_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="5497" />
+    <option name="ghostTextTabAcceptCount" value="5519" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -57,13 +57,13 @@
     <option name="lastKnownFileCountList">
       <list>
         <option value="593752891_2698" />
-        <option value="-2137770421_2206" />
+        <option value="-2137770421_2176" />
         <option value="-1659393271_633" />
         <option value="-650373765_2313" />
         <option value="1945329424_128" />
       </list>
     </option>
-    <option name="newButtonClicks" value="7" />
+    <option name="newButtonClicks" value="8" />
     <option name="shownUpdateVersions">
       <list>
         <option value="1.26.4" />
@@ -76,15 +76,15 @@
       <map>
         <entry key="-2097312606" value="4" />
         <entry key="-1232810607" value="4" />
-        <entry key="-1000785918" value="4" />
+        <entry key="-1000785918" value="5" />
         <entry key="-879093357" value="5" />
         <entry key="-316090007" value="5" />
         <entry key="-227780278" value="5" />
-        <entry key="224233913" value="4" />
-        <entry key="328928550" value="4" />
+        <entry key="224233913" value="5" />
+        <entry key="328928550" value="5" />
         <entry key="800261123" value="4" />
         <entry key="1088099106" value="5" />
-        <entry key="1122693682" value="4" />
+        <entry key="1122693682" value="5" />
         <entry key="1689502052" value="5" />
       </map>
     </option>

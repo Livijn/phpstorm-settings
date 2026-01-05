@@ -74,7 +74,7 @@
     </option>
     <option name="tipShowCounts">
       <map>
-        <entry key="-2097312606" value="5" />
+        <entry key="-2097312606" value="6" />
         <entry key="-1232810607" value="5" />
         <entry key="-1000785918" value="6" />
         <entry key="-879093357" value="6" />
@@ -82,11 +82,12 @@
         <entry key="-227780278" value="6" />
         <entry key="224233913" value="6" />
         <entry key="328928550" value="6" />
-        <entry key="800261123" value="5" />
+        <entry key="800261123" value="6" />
         <entry key="1088099106" value="6" />
         <entry key="1122693682" value="6" />
         <entry key="1689502052" value="6" />
       </map>
     </option>
+    <option name="toolWindowVisible" value="false" />
   </component>
 </application>

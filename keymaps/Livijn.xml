@@ -40,7 +40,7 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCompleteStatement" />
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta right" />
@@ -95,10 +95,10 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RunClass">
-    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="RunDashboard.Run">
-    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAs" />
@@ -115,6 +115,6 @@
   <action id="com.codeium.intellij.chat_window.send_to_cascade.SendToCascade" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="runShellFileAction">
-    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
 </keymap>

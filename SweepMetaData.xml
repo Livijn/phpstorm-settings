@@ -4,8 +4,8 @@
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;GLM 4.7&quot;:&quot;z-ai/glm-4.7&quot;,&quot;Sweep-0.1&quot;:&quot;sweep-auto&quot;,&quot;Sweep-0.1 (thinking)&quot;:&quot;sweep-auto:thinking&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
     <option name="chatHistoryUsed" value="26" />
-    <option name="chatWithoutSearch" value="473" />
-    <option name="chatsSent" value="472" />
+    <option name="chatWithoutSearch" value="520" />
+    <option name="chatsSent" value="519" />
     <option name="configButtonClicks" value="5" />
     <option name="fileContextUsageCount" value="1" />
     <option name="finishedEntitiesCachePopulationList">
@@ -26,7 +26,7 @@
         <option value="1945329424_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="5639" />
+    <option name="ghostTextTabAcceptCount" value="5653" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -63,7 +63,7 @@
         <option value="1945329424_128" />
       </list>
     </option>
-    <option name="newButtonClicks" value="12" />
+    <option name="newButtonClicks" value="13" />
     <option name="shownUpdateVersions">
       <list>
         <option value="1.26.4" />
@@ -76,16 +76,16 @@
       <map>
         <entry key="-2097312606" value="6" />
         <entry key="-1232810607" value="6" />
-        <entry key="-1000785918" value="6" />
-        <entry key="-879093357" value="6" />
+        <entry key="-1000785918" value="7" />
+        <entry key="-879093357" value="7" />
         <entry key="-316090007" value="7" />
         <entry key="-227780278" value="7" />
-        <entry key="224233913" value="6" />
-        <entry key="328928550" value="6" />
-        <entry key="800261123" value="6" />
+        <entry key="224233913" value="7" />
+        <entry key="328928550" value="7" />
+        <entry key="800261123" value="7" />
         <entry key="1088099106" value="7" />
-        <entry key="1122693682" value="6" />
-        <entry key="1689502052" value="6" />
+        <entry key="1122693682" value="7" />
+        <entry key="1689502052" value="7" />
       </map>
     </option>
   </component>

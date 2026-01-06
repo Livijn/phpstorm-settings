@@ -4,9 +4,9 @@
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;GLM 4.7&quot;:&quot;z-ai/glm-4.7&quot;,&quot;Sweep-0.1&quot;:&quot;sweep-auto&quot;,&quot;Sweep-0.1 (thinking)&quot;:&quot;sweep-auto:thinking&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
     <option name="chatHistoryUsed" value="31" />
-    <option name="chatWithoutSearch" value="546" />
-    <option name="chatsSent" value="545" />
-    <option name="configButtonClicks" value="5" />
+    <option name="chatWithoutSearch" value="572" />
+    <option name="chatsSent" value="571" />
+    <option name="configButtonClicks" value="6" />
     <option name="fileContextUsageCount" value="1" />
     <option name="finishedEntitiesCachePopulationList">
       <list>
@@ -26,7 +26,7 @@
         <option value="1945329424_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="5666" />
+    <option name="ghostTextTabAcceptCount" value="5680" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -35,7 +35,7 @@
     <option name="hasShownTokenUsageClickToHideDetailsHint" value="true" />
     <option name="hasShownTokenUsageClickToShowDetailsHint" value="true" />
     <option name="hasUsedLookupItem" value="true" />
-    <option name="historyButtonClicks" value="2" />
+    <option name="historyButtonClicks" value="3" />
     <option name="lastIndexedEntityFileList">
       <list>
         <option value="-2137770421_758" />
@@ -56,7 +56,7 @@
     </option>
     <option name="lastKnownFileCountList">
       <list>
-        <option value="593752891_2492" />
+        <option value="593752891_2413" />
         <option value="-2137770421_0" />
         <option value="-1659393271_633" />
         <option value="-650373765_2313" />
@@ -84,10 +84,9 @@
         <entry key="328928550" value="7" />
         <entry key="800261123" value="7" />
         <entry key="1088099106" value="8" />
-        <entry key="1122693682" value="7" />
+        <entry key="1122693682" value="8" />
         <entry key="1689502052" value="8" />
       </map>
     </option>
-    <option name="toolWindowVisible" value="false" />
   </component>
 </application>

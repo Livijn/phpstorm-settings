@@ -2,6 +2,7 @@
   <component name="LaravelIdea.Notifications">
     <option name="flags">
       <map>
+        <entry key="HelperCode.initialCheck" value="false" />
         <entry key="HelperCode.showWarnings" value="false" />
       </map>
     </option>

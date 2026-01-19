@@ -3,9 +3,9 @@
     <option name="cachedDefaultModel" value="Opus 4.5 (thinking)" />
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5&quot;,&quot;GLM 4.7&quot;:&quot;z-ai/glm-4.7&quot;,&quot;Sweep-0.1&quot;:&quot;sweep-auto&quot;,&quot;Sweep-0.1 (thinking)&quot;:&quot;sweep-auto:thinking&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
-    <option name="chatHistoryUsed" value="110" />
-    <option name="chatWithoutSearch" value="4982" />
-    <option name="chatsSent" value="4972" />
+    <option name="chatHistoryUsed" value="111" />
+    <option name="chatWithoutSearch" value="5063" />
+    <option name="chatsSent" value="5052" />
     <option name="configButtonClicks" value="7" />
     <option name="fileContextUsageCount" value="26" />
     <option name="finishedEntitiesCachePopulationList">
@@ -28,7 +28,7 @@
         <option value="3059181_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="7118" />
+    <option name="ghostTextTabAcceptCount" value="7122" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -38,7 +38,7 @@
     <option name="hasShownTokenUsageClickToShowDetailsHint" value="true" />
     <option name="hasUsedFileShortcut" value="true" />
     <option name="hasUsedLookupItem" value="true" />
-    <option name="historyButtonClicks" value="15" />
+    <option name="historyButtonClicks" value="16" />
     <option name="lastIndexedEntityFileList">
       <list>
         <option value="-2137770421_758" />
@@ -69,7 +69,7 @@
         <option value="3059181_1" />
       </list>
     </option>
-    <option name="newButtonClicks" value="142" />
+    <option name="newButtonClicks" value="144" />
     <option name="shownUpdateVersions">
       <list>
         <option value="1.26.4" />

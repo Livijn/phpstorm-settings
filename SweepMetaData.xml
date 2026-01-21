@@ -69,7 +69,7 @@
         <option value="3059181_1" />
       </list>
     </option>
-    <option name="newButtonClicks" value="169" />
+    <option name="newButtonClicks" value="170" />
     <option name="shownUpdateVersions">
       <list>
         <option value="1.26.4" />
@@ -96,6 +96,5 @@
         <entry key="1689502052" value="10" />
       </map>
     </option>
-    <option name="toolWindowVisible" value="false" />
   </component>
 </application>

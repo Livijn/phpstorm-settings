@@ -19,6 +19,7 @@
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="ChooseRunConfiguration" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -110,6 +111,7 @@
   </action>
   <action id="Terminal.ClearPrompt" />
   <action id="Terminal.SmartCommandExecution.Debug" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
   <action id="ZoomCurrentWindow" />
   <action id="com.codeium.intellij.chat_window.send_to_cascade.SendToCascade" />

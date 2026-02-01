@@ -7,6 +7,13 @@
     <option name="chatWithoutSearch" value="10427" />
     <option name="chatsSent" value="10394" />
     <option name="configButtonClicks" value="9" />
+    <option name="favoriteModels">
+      <list>
+        <option value="Auto" />
+        <option value="Opus 4.5" />
+        <option value="Sweep-0.1" />
+      </list>
+    </option>
     <option name="fileContextUsageCount" value="84" />
     <option name="finishedEntitiesCachePopulationList">
       <list>
@@ -28,7 +35,7 @@
         <option value="3059181_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="8345" />
+    <option name="ghostTextTabAcceptCount" value="8347" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -97,5 +104,6 @@
         <entry key="1689502052" value="10" />
       </map>
     </option>
+    <option name="toolWindowVisible" value="false" />
   </component>
 </application>

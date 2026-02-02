@@ -4,8 +4,8 @@
     <option name="cachedModels" value="{&quot;Opus 4.5 (thinking)&quot;:&quot;claude-opus-4-5-20251101:thinking&quot;,&quot;Opus 4.5&quot;:&quot;claude-opus-4-5-20251101&quot;,&quot;Sonnet 4.5 (thinking)&quot;:&quot;claude-sonnet-4-5-20250929:thinking&quot;,&quot;Sonnet 4.5&quot;:&quot;claude-sonnet-4-5-20250929&quot;,&quot;Haiku 4.5 (thinking)&quot;:&quot;claude-haiku-4-5-20251001:thinking&quot;,&quot;Haiku 4.5&quot;:&quot;claude-haiku-4-5-20251001&quot;,&quot;GLM 4.7&quot;:&quot;z-ai/glm-4.7&quot;,&quot;Sweep-0.1&quot;:&quot;sweep-auto&quot;,&quot;Grok Code Fast 1&quot;:&quot;grok-code-fast-1&quot;,&quot;GPT-5 (medium)&quot;:&quot;gpt-5-2025-08-07&quot;,&quot;GPT-5 (high)&quot;:&quot;gpt-5-2025-08-07:high&quot;,&quot;GPT-5-Codex (high)&quot;:&quot;gpt-5-codex:high&quot;,&quot;GPT-5.2 (medium)&quot;:&quot;gpt-5.2-2025-12-11&quot;,&quot;GPT-5.2 (high)&quot;:&quot;gpt-5.2-2025-12-11:high&quot;,&quot;Gemini 3 Flash&quot;:&quot;gemini-3-flash-preview&quot;,&quot;Gemini 3 Pro&quot;:&quot;gemini-3-pro-preview&quot;}" />
     <option name="chatHistoryBalloonWasShown" value="true" />
     <option name="chatHistoryUsed" value="207" />
-    <option name="chatWithoutSearch" value="10456" />
-    <option name="chatsSent" value="10423" />
+    <option name="chatWithoutSearch" value="10472" />
+    <option name="chatsSent" value="10439" />
     <option name="configButtonClicks" value="9" />
     <option name="favoriteModels">
       <list>
@@ -35,7 +35,7 @@
         <option value="3059181_false" />
       </list>
     </option>
-    <option name="ghostTextTabAcceptCount" value="8415" />
+    <option name="ghostTextTabAcceptCount" value="8417" />
     <option name="hasClickedWebSearch" value="true" />
     <option name="hasPrivacyModeBeenUpdatedFromProject" value="true" />
     <option name="hasSeenInstallationTelemetryEvent" value="true" />
@@ -70,7 +70,7 @@
       <list>
         <option value="593752891_866" />
         <option value="-2137770421_0" />
-        <option value="-1659393271_619" />
+        <option value="-1659393271_618" />
         <option value="-650373765_2313" />
         <option value="1945329424_128" />
         <option value="3059181_1" />

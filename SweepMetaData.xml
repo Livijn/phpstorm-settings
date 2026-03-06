@@ -7,6 +7,7 @@
     <option name="chatWithoutSearch" value="12070" />
     <option name="chatsSent" value="12036" />
     <option name="configButtonClicks" value="10" />
+    <option name="dontShowCmdJConflictNotifications" value="true" />
     <option name="favoriteModels">
       <list>
         <option value="Auto" />
@@ -70,7 +71,7 @@
       <list>
         <option value="593752891_157" />
         <option value="-2137770421_0" />
-        <option value="-1659393271_41" />
+        <option value="-1659393271_43" />
         <option value="-650373765_2313" />
         <option value="1945329424_128" />
         <option value="3059181_1" />
